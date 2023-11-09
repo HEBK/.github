@@ -7,5 +7,5 @@ Currently, this profile is managed by [@Cr4zyFl1x](https://github.com/Cr4zyFl1x)
 ## How to join  🔑
 
 To join this organization you'll just need your '**@hebk.de**' email address.
-Just write an email from your HEBK mail to '**[hello-hebk@florian.nrw](mailto:hello-hebk@florian.nrw)**' and tell us your GitHub username.
+Just write an email from your HEBK mail to '**[me@florian.nrw](mailto:me@florian.nrw)**' and tell us your GitHub username.
 Then you'll be invited to the organization as soon as possible :)
